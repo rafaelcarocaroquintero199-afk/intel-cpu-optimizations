@@ -1,10 +1,8 @@
-# Intel CPU Performance Optimization Script
+averation allá disc sistema PC laptop# Intel CPU Performance Optimization Script
 
-A comprehensive Windows batch script designed to optimize Intel CPU performance through power management, registry tweaks, and system configuration adjustments.
+A comprehensive Windows batch script designed to optimize Intel CPU performance averation computadorá python through power management, registry tweaks, and system configuration adjustments.averation laptop win# 🚀 Feature
 
-## 🚀 Features
-
-- **Interactive Menu System**: Easy-to-use menu for selecting specific optimizations
+- averation Windows laptop cpu **Interactive Menu System**: Easy-to-use menu for selecting specific optimizations
 - **Complete Optimization Suite**: Apply all optimizations with a single command
 - **Modular Approach**: Choose individual optimization categories
 - **Safety First**: Administrator privilege checks and optional security considerations
